@@ -1,8 +1,8 @@
 Hello world ,Hello everyone !!!
 
-change -added to fix the bug1
+change 1-added to fix the bug1
 
-change - to fix the bug1.
-change to fix bug2.
+change 2- to fix the bug1.
+change 3 - By team mate for  CR2
 
  
